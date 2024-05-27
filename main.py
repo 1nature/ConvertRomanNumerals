@@ -1,6 +1,6 @@
 
 print("Welcome to the roman numerals conversion program" + "\n")
-#create a variable and assign user input to it
+#create a variable and assign user input to itt
 numeral_name = input("Input the roman numerals you want to convert: ")
 #define a function that converts roman to integer
 def roman_to_int(numeral):
